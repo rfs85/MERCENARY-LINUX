@@ -1,8 +1,7 @@
 # MERCENARY-LINUX
 MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators
 # DEFAULT CREDENTIALS:
-USERNAME: mercenary
-PASSWORD: mercenary
+USERNAME: mercenary                                                                                                    PASSWORD: mercenary
 
 # OVERVIEW
 The MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators. This is the first iteration of this distro, with several tools, including Mercenary Hunt Framework being added with the next release (04/2016). This Distro contains many of the most well known and open-source respected malware analysis tools all conveniently installed on one system. Some of the tools included are: mercenary hunt framework**soon (MHF), SIFT, wmic-exe, radare2, viper, pescanner, jsdetox, volatility, maltrieve, rekall, mastiff, v8, crits, bro, netsniff-ng, wireshark, chopshop & Much More. Many of these run within prebuilt dockerized containers. This distro is a premium toolkit for any network, system, or malware analysis expert!
