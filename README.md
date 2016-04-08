@@ -1,5 +1,5 @@
 # MERCENARY-LINUX
-# MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators
+MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators
 # DEFAULT CREDENTIALS:
 USERNAME: mercenary
 PASSWORD: mercenary
