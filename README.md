@@ -1,4 +1,9 @@
 # MERCENARY-LINUX
+Link for Download: https://sourceforge.net/projects/mercenary-linux/files/VmwareWorkstation11/Mercenary.tar.gz/download
+SHA1:d6c4f6bcfe11dc2238427587b7b24ad2baa57029
+MD5:dcb26a177f233ace22e947a0a2f5fcbc
+
+
 MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators
 # DEFAULT CREDENTIALS:
 USERNAME: mercenary                                                                                                    PASSWORD: mercenary
