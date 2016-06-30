@@ -1,16 +1,22 @@
 # MERCENARY-LINUX
 
-Link for Download: https://sourceforge.net/projects/mercenary-linux/files/VmwareWorkstation11/Mercenary.tar.gz/download
+Download: http://cybersyndicates.com/downloads/
 
-SHA1:d6c4f6bcfe11dc2238427587b7b24ad2baa57029 | 
-MD5:dcb26a177f233ace22e947a0a2f5fcbc
+SHA1: 2c2d5035269366e583e93ffdb707e2dca55b8a36  Mercenary_Lite.tar.bzip2
+MD5: 0e35faca489feacae54ce8a8be7488ac  Mercenary_Lite.tar.bzip2
 
-MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators
+
+MERCENARY Linux Distro is Built specifically for Hunt Team Operators
 # DEFAULT CREDENTIALS:
 USERNAME: mercenary                                                                                                    PASSWORD: mercenary
 
 # OVERVIEW
-The MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators. This is the first iteration of this distro, with several tools, including Mercenary Hunt Framework being added with the next release (04/2016). This Distro contains many of the most well known and open-source respected malware analysis tools all conveniently installed on one system. Some of the tools included are: mercenary hunt framework**soon (MHF), SIFT, wmic-exe, radare2, viper, pescanner, jsdetox, volatility, maltrieve, rekall, mastiff, v8, crits, bro, netsniff-ng, wireshark, chopshop & Much More. Many of these run within prebuilt dockerized containers. This distro is a premium toolkit for any network, system, or malware analysis expert!
+The MERCENARY Linux Distro is Built specifically for Cyber Hunt Team Operators. This is the first iteration of this distro, with several tools, including Mercenary Hunt Framework being added with the next release (07/2016). This Distro contains many of the most well known and open-source respected malware analysis tools all conveniently installed on one system. Some of the tools included are: mercenary hunt framework (MHF), SIFT, wmic-exe, radare2, viper, pescanner, jsdetox, volatility, maltrieve, rekall, mastiff, v8, crits, bro, netsniff-ng, wireshark, chopshop & Much More. Many of these run within prebuilt dockerized containers. This distro is a premium toolkit for any network, system, or malware analysis expert.
+
+We have recieved tons of feedback regarding Mercenary-Linux v1.2 and we greatly appreciate all of the recommendations.  One of the key recommendations was to offer a lighter version that the currently available 7.5GB .vmdk   We are pleased to announce that after tons of hard work we were able to create a lightweight version of Mercenary-Linux that is availabe for download in qcow2 format for KVMlled version is 100% completed and ready to use once downloaded.  The current size of the lighter version sits at 2.3GB.  This is a large reduction over the .vmdk version, however the fully instlled version is configured, all except the docker pulls which can be done once the distro is downloaded.  To simplify the installation process we added a command "merc-install" that completes the entire setup process for you.  We hope you enjoy!
+
+<strong>Mercenary Hunt Framework (MHF)</strong>
+MHF was developed to organize system and network hunt operations.  It seamlessly integrates enumeration, artifact extraction graphics, visualization, and analytics.  The list of current modules has increased over the last several months and we would like to send a special thanks to all the developers that helped out on it. The updated modules will be released soon, along with the updated version of mhf.  
 
 # DOCKERS...
 
