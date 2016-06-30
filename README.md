@@ -3,6 +3,7 @@
 Download: http://cybersyndicates.com/downloads/
 
 SHA1: 2c2d5035269366e583e93ffdb707e2dca55b8a36  Mercenary_Lite.tar.bzip2
+
 MD5: 0e35faca489feacae54ce8a8be7488ac  Mercenary_Lite.tar.bzip2
 
 MD5: bcdddcb016c0207aeb5d44978c1397bf Mercenary.tar.gz
